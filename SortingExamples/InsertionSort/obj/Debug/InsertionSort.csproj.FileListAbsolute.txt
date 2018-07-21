@@ -1,0 +1,7 @@
+E:\IMCS\DotNetProjects\SortingExamples\InsertionSort\bin\Debug\InsertionSort.exe.config
+E:\IMCS\DotNetProjects\SortingExamples\InsertionSort\bin\Debug\InsertionSort.exe
+E:\IMCS\DotNetProjects\SortingExamples\InsertionSort\bin\Debug\InsertionSort.pdb
+E:\IMCS\DotNetProjects\SortingExamples\InsertionSort\obj\Debug\InsertionSort.csprojResolveAssemblyReference.cache
+E:\IMCS\DotNetProjects\SortingExamples\InsertionSort\obj\Debug\InsertionSort.csproj.CoreCompileInputs.cache
+E:\IMCS\DotNetProjects\SortingExamples\InsertionSort\obj\Debug\InsertionSort.exe
+E:\IMCS\DotNetProjects\SortingExamples\InsertionSort\obj\Debug\InsertionSort.pdb

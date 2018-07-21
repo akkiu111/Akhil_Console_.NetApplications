@@ -1,0 +1,10 @@
+E:\IMCS\DotNetProjects\SortingExamples\BinarySearch\bin\Debug\BinarySearch.exe.config
+E:\IMCS\DotNetProjects\SortingExamples\BinarySearch\bin\Debug\BinarySearch.exe
+E:\IMCS\DotNetProjects\SortingExamples\BinarySearch\bin\Debug\BinarySearch.pdb
+E:\IMCS\DotNetProjects\SortingExamples\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
+E:\IMCS\DotNetProjects\SortingExamples\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+E:\IMCS\DotNetProjects\SortingExamples\BinarySearch\obj\Debug\BinarySearch.exe
+E:\IMCS\DotNetProjects\SortingExamples\BinarySearch\obj\Debug\BinarySearch.pdb
+E:\IMCS\DotNetProjects\SortingExamples\BinarySearch\bin\Debug\BubbleSort.exe
+E:\IMCS\DotNetProjects\SortingExamples\BinarySearch\bin\Debug\BubbleSort.pdb
+E:\IMCS\DotNetProjects\SortingExamples\BinarySearch\bin\Debug\BubbleSort.exe.config

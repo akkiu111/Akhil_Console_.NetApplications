@@ -1,0 +1,7 @@
+E:\IMCS\DotNetProjects\DailyCoding\Day1_SumOfTwo\bin\Debug\Day1_SumOfTwo.exe.config
+E:\IMCS\DotNetProjects\DailyCoding\Day1_SumOfTwo\bin\Debug\Day1_SumOfTwo.exe
+E:\IMCS\DotNetProjects\DailyCoding\Day1_SumOfTwo\bin\Debug\Day1_SumOfTwo.pdb
+E:\IMCS\DotNetProjects\DailyCoding\Day1_SumOfTwo\obj\Debug\Day1_SumOfTwo.csprojResolveAssemblyReference.cache
+E:\IMCS\DotNetProjects\DailyCoding\Day1_SumOfTwo\obj\Debug\Day1_SumOfTwo.csproj.CoreCompileInputs.cache
+E:\IMCS\DotNetProjects\DailyCoding\Day1_SumOfTwo\obj\Debug\Day1_SumOfTwo.exe
+E:\IMCS\DotNetProjects\DailyCoding\Day1_SumOfTwo\obj\Debug\Day1_SumOfTwo.pdb

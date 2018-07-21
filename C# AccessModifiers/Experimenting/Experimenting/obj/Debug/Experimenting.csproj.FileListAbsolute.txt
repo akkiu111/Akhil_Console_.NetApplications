@@ -1,0 +1,14 @@
+E:\IMCS\c# other\Experimenting\Experimenting\obj\Debug\Experimenting.csprojResolveAssemblyReference.cache
+E:\IMCS\c# other\Experimenting\Experimenting\obj\Debug\Experimenting.csproj.CoreCompileInputs.cache
+E:\IMCS\c# other\Experimenting\Experimenting\bin\Debug\Experimenting.exe.config
+E:\IMCS\c# other\Experimenting\Experimenting\bin\Debug\Experimenting.exe
+E:\IMCS\c# other\Experimenting\Experimenting\bin\Debug\Experimenting.pdb
+E:\IMCS\c# other\Experimenting\Experimenting\obj\Debug\Experimenting.exe
+E:\IMCS\c# other\Experimenting\Experimenting\obj\Debug\Experimenting.pdb
+E:\IMCS\C# AccessModifiers\Experimenting\Experimenting\bin\Debug\Experimenting.exe.config
+E:\IMCS\C# AccessModifiers\Experimenting\Experimenting\bin\Debug\Experimenting.exe
+E:\IMCS\C# AccessModifiers\Experimenting\Experimenting\bin\Debug\Experimenting.pdb
+E:\IMCS\C# AccessModifiers\Experimenting\Experimenting\obj\Debug\Experimenting.csprojResolveAssemblyReference.cache
+E:\IMCS\C# AccessModifiers\Experimenting\Experimenting\obj\Debug\Experimenting.csproj.CoreCompileInputs.cache
+E:\IMCS\C# AccessModifiers\Experimenting\Experimenting\obj\Debug\Experimenting.exe
+E:\IMCS\C# AccessModifiers\Experimenting\Experimenting\obj\Debug\Experimenting.pdb

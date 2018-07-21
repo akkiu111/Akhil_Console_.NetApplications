@@ -1,0 +1,7 @@
+E:\IMCS\C# console\ATM_transaction\ATM_transaction\bin\Debug\ATM_transaction.exe.config
+E:\IMCS\C# console\ATM_transaction\ATM_transaction\bin\Debug\ATM_transaction.exe
+E:\IMCS\C# console\ATM_transaction\ATM_transaction\bin\Debug\ATM_transaction.pdb
+E:\IMCS\C# console\ATM_transaction\ATM_transaction\obj\Debug\ATM_transaction.csprojResolveAssemblyReference.cache
+E:\IMCS\C# console\ATM_transaction\ATM_transaction\obj\Debug\ATM_transaction.csproj.CoreCompileInputs.cache
+E:\IMCS\C# console\ATM_transaction\ATM_transaction\obj\Debug\ATM_transaction.exe
+E:\IMCS\C# console\ATM_transaction\ATM_transaction\obj\Debug\ATM_transaction.pdb

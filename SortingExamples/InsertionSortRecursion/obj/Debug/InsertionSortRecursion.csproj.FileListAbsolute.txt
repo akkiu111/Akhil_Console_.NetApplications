@@ -1,0 +1,7 @@
+E:\IMCS\DotNetProjects\SortingExamples\InsertionSortRecursion\bin\Debug\InsertionSortRecursion.exe.config
+E:\IMCS\DotNetProjects\SortingExamples\InsertionSortRecursion\bin\Debug\InsertionSortRecursion.exe
+E:\IMCS\DotNetProjects\SortingExamples\InsertionSortRecursion\bin\Debug\InsertionSortRecursion.pdb
+E:\IMCS\DotNetProjects\SortingExamples\InsertionSortRecursion\obj\Debug\InsertionSortRecursion.csprojResolveAssemblyReference.cache
+E:\IMCS\DotNetProjects\SortingExamples\InsertionSortRecursion\obj\Debug\InsertionSortRecursion.csproj.CoreCompileInputs.cache
+E:\IMCS\DotNetProjects\SortingExamples\InsertionSortRecursion\obj\Debug\InsertionSortRecursion.exe
+E:\IMCS\DotNetProjects\SortingExamples\InsertionSortRecursion\obj\Debug\InsertionSortRecursion.pdb

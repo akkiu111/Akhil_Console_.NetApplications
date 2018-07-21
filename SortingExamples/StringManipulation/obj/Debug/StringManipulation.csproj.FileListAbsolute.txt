@@ -1,0 +1,7 @@
+E:\IMCS\DotNetProjects\SortingExamples\StringManipulation\bin\Debug\StringManipulation.exe.config
+E:\IMCS\DotNetProjects\SortingExamples\StringManipulation\bin\Debug\StringManipulation.exe
+E:\IMCS\DotNetProjects\SortingExamples\StringManipulation\bin\Debug\StringManipulation.pdb
+E:\IMCS\DotNetProjects\SortingExamples\StringManipulation\obj\Debug\StringManipulation.csprojResolveAssemblyReference.cache
+E:\IMCS\DotNetProjects\SortingExamples\StringManipulation\obj\Debug\StringManipulation.csproj.CoreCompileInputs.cache
+E:\IMCS\DotNetProjects\SortingExamples\StringManipulation\obj\Debug\StringManipulation.exe
+E:\IMCS\DotNetProjects\SortingExamples\StringManipulation\obj\Debug\StringManipulation.pdb

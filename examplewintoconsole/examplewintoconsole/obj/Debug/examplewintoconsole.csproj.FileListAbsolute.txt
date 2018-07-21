@@ -1,0 +1,10 @@
+E:\IMCS\DotNetProjects\examplewintoconsole\examplewintoconsole\bin\Debug\examplewintoconsole.exe.config
+E:\IMCS\DotNetProjects\examplewintoconsole\examplewintoconsole\bin\Debug\examplewintoconsole.exe
+E:\IMCS\DotNetProjects\examplewintoconsole\examplewintoconsole\bin\Debug\examplewintoconsole.pdb
+E:\IMCS\DotNetProjects\examplewintoconsole\examplewintoconsole\obj\Debug\examplewintoconsole.csprojResolveAssemblyReference.cache
+E:\IMCS\DotNetProjects\examplewintoconsole\examplewintoconsole\obj\Debug\examplewintoconsole.Form1.resources
+E:\IMCS\DotNetProjects\examplewintoconsole\examplewintoconsole\obj\Debug\examplewintoconsole.Properties.Resources.resources
+E:\IMCS\DotNetProjects\examplewintoconsole\examplewintoconsole\obj\Debug\examplewintoconsole.csproj.GenerateResource.Cache
+E:\IMCS\DotNetProjects\examplewintoconsole\examplewintoconsole\obj\Debug\examplewintoconsole.csproj.CoreCompileInputs.cache
+E:\IMCS\DotNetProjects\examplewintoconsole\examplewintoconsole\obj\Debug\examplewintoconsole.exe
+E:\IMCS\DotNetProjects\examplewintoconsole\examplewintoconsole\obj\Debug\examplewintoconsole.pdb

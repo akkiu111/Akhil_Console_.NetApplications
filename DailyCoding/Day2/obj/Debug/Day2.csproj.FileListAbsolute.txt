@@ -1,0 +1,7 @@
+E:\IMCS\DotNetProjects\DailyCoding\Day2\bin\Debug\Day2.exe.config
+E:\IMCS\DotNetProjects\DailyCoding\Day2\bin\Debug\Day2.exe
+E:\IMCS\DotNetProjects\DailyCoding\Day2\bin\Debug\Day2.pdb
+E:\IMCS\DotNetProjects\DailyCoding\Day2\obj\Debug\Day2.csprojResolveAssemblyReference.cache
+E:\IMCS\DotNetProjects\DailyCoding\Day2\obj\Debug\Day2.csproj.CoreCompileInputs.cache
+E:\IMCS\DotNetProjects\DailyCoding\Day2\obj\Debug\Day2.exe
+E:\IMCS\DotNetProjects\DailyCoding\Day2\obj\Debug\Day2.pdb

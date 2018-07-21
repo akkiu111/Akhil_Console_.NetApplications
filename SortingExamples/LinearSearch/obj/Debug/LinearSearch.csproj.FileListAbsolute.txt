@@ -1,0 +1,7 @@
+E:\IMCS\DotNetProjects\SortingExamples\LinearSearch\bin\Debug\LinearSearch.exe.config
+E:\IMCS\DotNetProjects\SortingExamples\LinearSearch\bin\Debug\LinearSearch.exe
+E:\IMCS\DotNetProjects\SortingExamples\LinearSearch\bin\Debug\LinearSearch.pdb
+E:\IMCS\DotNetProjects\SortingExamples\LinearSearch\obj\Debug\LinearSearch.csprojResolveAssemblyReference.cache
+E:\IMCS\DotNetProjects\SortingExamples\LinearSearch\obj\Debug\LinearSearch.csproj.CoreCompileInputs.cache
+E:\IMCS\DotNetProjects\SortingExamples\LinearSearch\obj\Debug\LinearSearch.exe
+E:\IMCS\DotNetProjects\SortingExamples\LinearSearch\obj\Debug\LinearSearch.pdb

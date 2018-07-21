@@ -1,0 +1,7 @@
+E:\IMCS\DotNetProjects\SortingExamples\BubbleSortRecursion\bin\Debug\BubbleSortRecursion.exe.config
+E:\IMCS\DotNetProjects\SortingExamples\BubbleSortRecursion\bin\Debug\BubbleSortRecursion.exe
+E:\IMCS\DotNetProjects\SortingExamples\BubbleSortRecursion\bin\Debug\BubbleSortRecursion.pdb
+E:\IMCS\DotNetProjects\SortingExamples\BubbleSortRecursion\obj\Debug\BubbleSortRecursion.csprojResolveAssemblyReference.cache
+E:\IMCS\DotNetProjects\SortingExamples\BubbleSortRecursion\obj\Debug\BubbleSortRecursion.csproj.CoreCompileInputs.cache
+E:\IMCS\DotNetProjects\SortingExamples\BubbleSortRecursion\obj\Debug\BubbleSortRecursion.exe
+E:\IMCS\DotNetProjects\SortingExamples\BubbleSortRecursion\obj\Debug\BubbleSortRecursion.pdb

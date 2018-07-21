@@ -1,0 +1,14 @@
+E:\IMCS\DotNetProjects\FrequentlyOccuringItem\AKCodingDataStructures\bin\Debug\AKCodingDataStructures.exe.config
+E:\IMCS\DotNetProjects\FrequentlyOccuringItem\AKCodingDataStructures\bin\Debug\AKCodingDataStructures.exe
+E:\IMCS\DotNetProjects\FrequentlyOccuringItem\AKCodingDataStructures\bin\Debug\AKCodingDataStructures.pdb
+E:\IMCS\DotNetProjects\FrequentlyOccuringItem\AKCodingDataStructures\obj\Debug\AKCodingDataStructures.csprojResolveAssemblyReference.cache
+E:\IMCS\DotNetProjects\FrequentlyOccuringItem\AKCodingDataStructures\obj\Debug\AKCodingDataStructures.csproj.CoreCompileInputs.cache
+E:\IMCS\DotNetProjects\FrequentlyOccuringItem\AKCodingDataStructures\obj\Debug\AKCodingDataStructures.exe
+E:\IMCS\DotNetProjects\FrequentlyOccuringItem\AKCodingDataStructures\obj\Debug\AKCodingDataStructures.pdb
+E:\IMCS\DotNetProjects\AKCodingDataStructures\AKCodingDataStructures\bin\Debug\AKCodingDataStructures.exe.config
+E:\IMCS\DotNetProjects\AKCodingDataStructures\AKCodingDataStructures\bin\Debug\AKCodingDataStructures.exe
+E:\IMCS\DotNetProjects\AKCodingDataStructures\AKCodingDataStructures\bin\Debug\AKCodingDataStructures.pdb
+E:\IMCS\DotNetProjects\AKCodingDataStructures\AKCodingDataStructures\obj\Debug\AKCodingDataStructures.csprojResolveAssemblyReference.cache
+E:\IMCS\DotNetProjects\AKCodingDataStructures\AKCodingDataStructures\obj\Debug\AKCodingDataStructures.csproj.CoreCompileInputs.cache
+E:\IMCS\DotNetProjects\AKCodingDataStructures\AKCodingDataStructures\obj\Debug\AKCodingDataStructures.exe
+E:\IMCS\DotNetProjects\AKCodingDataStructures\AKCodingDataStructures\obj\Debug\AKCodingDataStructures.pdb

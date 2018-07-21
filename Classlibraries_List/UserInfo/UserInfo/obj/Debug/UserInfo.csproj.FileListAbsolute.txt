@@ -1,0 +1,12 @@
+E:\IMCS\DotNetTrainingStuff\Classlibraries\UserInfo\UserInfo\bin\Debug\UserInfo.dll
+E:\IMCS\DotNetTrainingStuff\Classlibraries\UserInfo\UserInfo\bin\Debug\UserInfo.pdb
+E:\IMCS\DotNetTrainingStuff\Classlibraries\UserInfo\UserInfo\obj\Debug\UserInfo.csproj.CoreCompileInputs.cache
+E:\IMCS\DotNetTrainingStuff\Classlibraries\UserInfo\UserInfo\obj\Debug\UserInfo.dll
+E:\IMCS\DotNetTrainingStuff\Classlibraries\UserInfo\UserInfo\obj\Debug\UserInfo.pdb
+E:\IMCS\DotNetTrainingStuff\Classlibraries\UserInfo\UserInfo\obj\Debug\UserInfo.csprojResolveAssemblyReference.cache
+E:\IMCS\DotNetProjects\Classlibraries\UserInfo\UserInfo\bin\Debug\UserInfo.dll
+E:\IMCS\DotNetProjects\Classlibraries\UserInfo\UserInfo\bin\Debug\UserInfo.pdb
+E:\IMCS\DotNetProjects\Classlibraries\UserInfo\UserInfo\obj\Debug\UserInfo.csprojResolveAssemblyReference.cache
+E:\IMCS\DotNetProjects\Classlibraries\UserInfo\UserInfo\obj\Debug\UserInfo.csproj.CoreCompileInputs.cache
+E:\IMCS\DotNetProjects\Classlibraries\UserInfo\UserInfo\obj\Debug\UserInfo.dll
+E:\IMCS\DotNetProjects\Classlibraries\UserInfo\UserInfo\obj\Debug\UserInfo.pdb
